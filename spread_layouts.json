@@ -1,0 +1,9 @@
+{
+    "three_card": {
+        "positions": ["Past", "Present", "Future"]
+    },
+    "celtic_cross": {
+        "positions": ["Present", "Challenge", "Past", "Future", "Above", "Below", "Advice", "External Influences", "Hopes and Fears", "Outcome"]
+    },
+    
+}
