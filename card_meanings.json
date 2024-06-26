@@ -1,0 +1,404 @@
+{
+  "major_arcana": [
+    {
+      "card": "The Fool",
+      "upright_meaning": "New beginnings, optimism, trust in life",
+      "reversed_meaning": "Recklessness, taken advantage of, inconsideration"
+    },
+    {
+      "card": "The Magician",
+      "upright_meaning": "Willpower, desire, creation, manifestation",
+      "reversed_meaning": "Trickery, illusions, out of touch"
+    },
+    {
+      "card": "The High Priestess",
+      "upright_meaning": "Intuition, unconscious, inner voice",
+      "reversed_meaning": "Lack of center, lost inner voice, repressed feelings"
+    },
+    {
+      "card": "The Empress",
+      "upright_meaning": "Femininity, beauty, nature, nurturing",
+      "reversed_meaning": "Dependence, smothering, emptiness, nosiness"
+    },
+    {
+      "card": "The Emperor",
+      "upright_meaning": "Authority, structure, control, fatherhood",
+      "reversed_meaning": "Tyranny, rigidity, coldness"
+    },
+    {
+      "card": "The Hierophant",
+      "upright_meaning": "Tradition, conformity, morality, ethics",
+      "reversed_meaning": "Rebellion, subversiveness, new approaches"
+    },
+    {
+      "card": "The Lovers",
+      "upright_meaning": "Love, harmony, relationships, values alignment",
+      "reversed_meaning": "Imbalance, misalignment of values"
+    },
+    {
+      "card": "The Chariot",
+      "upright_meaning": "Control, willpower, success, action, determination",
+      "reversed_meaning": "Self-discipline, opposition, lack of direction"
+    },
+    {
+      "card": "Strength",
+      "upright_meaning": "Courage, bravery, confidence, compassion, self-confidence",
+      "reversed_meaning": "Self-doubt, weakness, insecurity"
+    },
+    {
+      "card": "The Hermit",
+      "upright_meaning": "Contemplation, search for truth, inner guidance",
+      "reversed_meaning": "Loneliness, isolation, lost your way"
+    },
+    {
+      "card": "Wheel of Fortune",
+      "upright_meaning": "Change, cycles, inevitable fate",
+      "reversed_meaning": "No control, clinging to control, bad luck"
+    },
+    {
+      "card": "Justice",
+      "upright_meaning": "Justice, fairness, truth, cause and effect, law",
+      "reversed_meaning": "Dishonesty, unaccountability, unfairness"
+    },
+    {
+      "card": "The Hanged Man",
+      "upright_meaning": "Pause, surrender, letting go, new perspectives",
+      "reversed_meaning": "Delays, resistance, stalling, indecision"
+    },
+    {
+      "card": "Death",
+      "upright_meaning": "End of a cycle, beginnings, change, transformation",
+      "reversed_meaning": "Fear of change, holding on, stagnation, decay"
+    },
+    {
+      "card": "Temperance",
+      "upright_meaning": "Middle path, patience, finding meaning",
+      "reversed_meaning": "Extremes, excess, lack of balance"
+    },
+    {
+      "card": "The Devil",
+      "upright_meaning": "Addiction, materialism, playfulness",
+      "reversed_meaning": "Freedom, release, restoring control"
+    },
+    {
+      "card": "The Tower",
+      "upright_meaning": "Sudden upheaval, broken pride, disaster",
+      "reversed_meaning": "Disaster avoided, delayed disaster, fear of suffering"
+    },
+    {
+      "card": "The Star",
+      "upright_meaning": "Hope, faith, purpose, renewal, spirituality",
+      "reversed_meaning": "Lack of faith, despair, self-trust, disconnection"
+    },
+    {
+      "card": "The Moon",
+      "upright_meaning": "Unconscious, illusions, intuition",
+      "reversed_meaning": "Confusion, fear, misinterpretation"
+    },
+    {
+      "card": "The Sun",
+      "upright_meaning": "Joy, success, celebration, positivity",
+      "reversed_meaning": "Negativity, depression, sadness"
+    },
+    {
+      "card": "Judgement",
+      "upright_meaning": "Reflection, reckoning, awakening",
+      "reversed_meaning": "Lack of self-awareness, doubt, self-loathing"
+    },
+    {
+      "card": "The World",
+      "upright_meaning": "Fulfillment, harmony, completion",
+      "reversed_meaning": "Incompletion, no closure"
+    }
+  ],
+  "minor_arcana": {
+    "wands": [
+      {
+        "card": "Ace of Wands",
+        "upright_meaning": "Inspiration, new opportunities, growth, potential",
+        "reversed_meaning": "An emerging idea, lack of direction, distractions, delays"
+      },
+      {
+        "card": "Two of Wands",
+        "upright_meaning": "Future planning, progress, decisions, discovery",
+        "reversed_meaning": "Fear of unknown, lack of planning"
+      },
+      {
+        "card": "Three of Wands",
+        "upright_meaning": "Progress, expansion, foresight, overseas opportunities",
+        "reversed_meaning": "Lack of foresight, delays, obstacles to long-term goals"
+      },
+      {
+        "card": "Four of Wands",
+        "upright_meaning": "Celebration, harmony, marriage, home, community",
+        "reversed_meaning": "Inner harmony, conflict with others, transition"
+      },
+      {
+        "card": "Five of Wands",
+        "upright_meaning": "Conflict, disagreements, competition, tension, diversity",
+        "reversed_meaning": "Inner conflict, conflict avoidance, tension release"
+      },
+      {
+        "card": "Six of Wands",
+        "upright_meaning": "Success, public recognition, progress, self-confidence",
+        "reversed_meaning": "Private achievement, personal definition of success, fall from grace, egotism"
+      },
+      {
+        "card": "Seven of Wands",
+        "upright_meaning": "Challenge, competition, protection, perseverance",
+        "reversed_meaning": "Exhaustion, giving up, overwhelmed"
+      },
+      {
+        "card": "Eight of Wands",
+        "upright_meaning": "Movement, fast-paced change, action, alignment",
+        "reversed_meaning": "Delays, frustration, resisting change, internal alignment"
+      },
+      {
+        "card": "Nine of Wands",
+        "upright_meaning": "Resilience, courage, persistence, test of faith, boundaries",
+        "reversed_meaning": "Inner resources, struggle, overwhelm, defensive, paranoia"
+      },
+      {
+        "card": "Ten of Wands",
+        "upright_meaning": "Burden, extra responsibility, hard work, completion",
+        "reversed_meaning": "Doing it all, carrying the burden, delegation, release"
+      },
+      {
+        "card": "Page of Wands",
+        "upright_meaning": "Inspiration, ideas, discovery, limitless potential, free spirit",
+        "reversed_meaning": "Newly-formed ideas, redirecting energy, self-limiting beliefs, a spiritual path"
+      },
+      {
+        "card": "Knight of Wands",
+        "upright_meaning": "Energy, passion, inspired action, adventure, impulsiveness",
+        "reversed_meaning": "Passion project, haste, scattered energy, delays, frustration"
+      },
+      {
+        "card": "Queen of Wands",
+        "upright_meaning": "Courage, confidence, independence, social butterfly, determination",
+        "reversed_meaning": "Self-respect, self-confidence, introverted, re-establish sense of self"
+      },
+      {
+        "card": "King of Wands",
+        "upright_meaning": "Natural-born leader, vision, entrepreneur, honor",
+        "reversed_meaning": "Impulsiveness, haste, ruthless, high expectations"
+      }
+    ],
+    "cups": [
+      {
+        "card": "Ace of Cups",
+        "upright_meaning": "Love, new relationships, compassion, creativity",
+        "reversed_meaning": "Self-love, intuition, repressed emotions"
+      },
+      {
+        "card": "Two of Cups",
+        "upright_meaning": "Unified love, partnership, mutual attraction",
+        "reversed_meaning": "Self-love, break-ups, disharmony, distrust"
+      },
+      {
+        "card": "Three of Cups",
+        "upright_meaning": "Celebration, friendship, creativity, collaborations",
+        "reversed_meaning": "Independence, alone time, hardcore partying, ‘three’s a crowd’"
+      },
+      {
+        "card": "Four of Cups",
+        "upright_meaning": "Meditation, contemplation, apathy, reevaluation",
+        "reversed_meaning": "Retreat, withdrawal, checking in for alignment"
+      },
+      {
+        "card": "Five of Cups",
+        "upright_meaning": "Regret, failure, disappointment, pessimism",
+        "reversed_meaning": "Personal setbacks, self-forgiveness, moving on"
+      },
+      {
+        "card": "Six of Cups",
+        "upright_meaning": "Revisiting the past, childhood memories, innocence, joy",
+        "reversed_meaning": "Living in the past, forgiveness, lacking playfulness"
+      },
+      {
+        "card": "Seven of Cups",
+        "upright_meaning": "Opportunities, choices, wishful thinking, illusion",
+        "reversed_meaning": "Alignment, personal values, overwhelmed by choices"
+      },
+      {
+        "card": "Eight of Cups",
+        "upright_meaning": "Disappointment, abandonment, withdrawal, escapism",
+        "reversed_meaning": "Trying one more time, indecision, aimless drifting, walking away"
+      },
+      {
+        "card": "Nine of Cups",
+        "upright_meaning": "Contentment, satisfaction, gratitude, wish come true",
+        "reversed_meaning": "Inner happiness, materialism, dissatisfaction, indulgence"
+      },
+      {
+        "card": "Ten of Cups",
+        "upright_meaning": "Divine love, blissful relationships, harmony, alignment",
+        "reversed_meaning": "Disconnection, misaligned values, struggling relationships"
+      },
+      {
+        "card": "Page of Cups",
+        "upright_meaning": "Creative opportunities, intuitive messages, curiosity, possibility",
+        "reversed_meaning": "New ideas, doubting intuition, creative blocks, emotional immaturity"
+      },
+      {
+        "card": "Knight of Cups",
+        "upright_meaning": "Creativity, romance, charm, imagination, beauty",
+        "reversed_meaning": "Overactive imagination, unrealistic, jealous, moody"
+      },
+      {
+        "card": "Queen of Cups",
+        "upright_meaning": "Compassionate, caring, emotionally stable, intuitive, in flow",
+        "reversed_meaning": "Inner feelings, self-care, self-love, co-dependency"
+      },
+      {
+        "card": "King of Cups",
+        "upright_meaning": "Emotionally balanced, compassionate, diplomatic",
+        "reversed_meaning": "Self-compassion, inner feelings, moodiness, emotionally manipulative"
+      }
+    ],
+    "swords": [
+      {
+        "card": "Ace of Swords",
+        "upright_meaning": "Breakthrough, clarity, sharp mind",
+        "reversed_meaning": "Confusion, brutality, chaos"
+      },
+      {
+        "card": "Two of Swords",
+        "upright_meaning": "Difficult choices, indecision, stalemate",
+        "reversed_meaning": "Lesser of two evils, no right choice, confusion"
+      },
+      {
+        "card": "Three of Swords",
+        "upright_meaning": "Heartbreak, emotional pain, sorrow, grief, hurt",
+        "reversed_meaning": "Negative self-talk, releasing pain, optimism, forgiveness"
+      },
+      {
+        "card": "Four of Swords",
+        "upright_meaning": "Rest, relaxation, meditation, contemplation, recuperation",
+        "reversed_meaning": "Exhaustion, burn-out, deep contemplation, stagnation"
+      },
+      {
+        "card": "Five of Swords",
+        "upright_meaning": "Conflict, disagreements, competition, defeat, winning at all costs",
+        "reversed_meaning": "Reconciliation, making amends, past resentment"
+      },
+      {
+        "card": "Six of Swords",
+        "upright_meaning": "Transition, change, rite of passage, releasing baggage",
+        "reversed_meaning": "Personal transition, resistance to change, unfinished business"
+      },
+      {
+        "card": "Seven of Swords",
+        "upright_meaning": "Betrayal, deception, getting away with something, stealth",
+        "reversed_meaning": "Imposter syndrome, self-deceit, keeping secrets"
+      },
+      {
+        "card": "Eight of Swords",
+        "upright_meaning": "Negative thoughts, self-imposed restriction, imprisonment, victim mentality",
+        "reversed_meaning": "Self-limiting beliefs, inner critic, releasing negative thoughts, open to new perspectives"
+      },
+      {
+        "card": "Nine of Swords",
+        "upright_meaning": "Anxiety, worry, fear, depression, nightmares",
+        "reversed_meaning": "Inner turmoil, deep-seated fears, secrets, releasing worry"
+      },
+      {
+        "card": "Ten of Swords",
+        "upright_meaning": "Painful endings, deep wounds, betrayal, loss, crisis",
+        "reversed_meaning": "Recovery, regeneration, resisting an inevitable end"
+      },
+      {
+        "card": "Page of Swords",
+        "upright_meaning": "New ideas, curiosity, thirst for knowledge, new ways of communicating",
+        "reversed_meaning": "Self-expression, all talk and no action, haphazard action, haste"
+      },
+      {
+        "card": "Knight of Swords",
+        "upright_meaning": "Ambitious, action-oriented, driven to succeed, fast-thinking",
+        "reversed_meaning": "Restless, unfocused, impulsive, burn-out"
+      },
+      {
+        "card": "Queen of Swords",
+        "upright_meaning": "Independent, unbiased judgement, clear boundaries, direct communication",
+        "reversed_meaning": "Overly-emotional, easily influenced, bitchy, cold-hearted"
+      },
+      {
+        "card": "King of Swords",
+        "upright_meaning": "Mental clarity, intellectual power, authority, truth",
+        "reversed_meaning": "Quiet power, inner truth, misuse of power, manipulation"
+      }
+    ],
+    "pentacles": [
+      {
+        "card": "Ace of Pentacles",
+        "upright_meaning": "Opportunity, prosperity, new venture",
+        "reversed_meaning": "Lost opportunity, lack of planning and foresight"
+      },
+      {
+        "card": "Two of Pentacles",
+        "upright_meaning": "Multiple priorities, time management, prioritisation, adaptability",
+        "reversed_meaning": "Over-committed, disorganisation, reprioritisation"
+      },
+      {
+        "card": "Three of Pentacles",
+        "upright_meaning": "Teamwork, collaboration, learning, implementation",
+        "reversed_meaning": "Disharmony, misalignment, working alone"
+      },
+      {
+        "card": "Four of Pentacles",
+        "upright_meaning": "Saving money, security, conservatism, scarcity, control",
+        "reversed_meaning": "Over-spending, greed, self-protection"
+      },
+      {
+        "card": "Five of Pentacles",
+        "upright_meaning": "Financial loss, poverty, lack mindset, isolation, worry",
+        "reversed_meaning": "Recovery from financial loss, spiritual poverty"
+      },
+      {
+        "card": "Six of Pentacles",
+        "upright_meaning": "Giving, receiving, sharing wealth, generosity, charity",
+        "reversed_meaning": "Self-care, unpaid debts, one-sided charity"
+      },
+      {
+        "card": "Seven of Pentacles",
+        "upright_meaning": "Long-term view, sustainable results, perseverance, investment",
+        "reversed_meaning": "Lack of long-term vision, limited success or reward"
+      },
+      {
+        "card": "Eight of Pentacles",
+        "upright_meaning": "Apprenticeship, repetitive tasks, mastery, skill development",
+        "reversed_meaning": "Self-development, perfectionism, misdirected activity"
+      },
+      {
+        "card": "Nine of Pentacles",
+        "upright_meaning": "Abundance, luxury, self-sufficiency, financial independence",
+        "reversed_meaning": "Self-worth, over-investment in work, hustling"
+      },
+      {
+        "card": "Ten of Pentacles",
+        "upright_meaning": "Legacy, culmination, inheritance, roots, family, ancestry, windfall",
+        "reversed_meaning": "Fleeting success, lack of stability, lack of resources"
+      },
+      {
+        "card": "Page of Pentacles",
+        "upright_meaning": "Manifestation, financial opportunity, skill development",
+        "reversed_meaning": "Lack of progress, procrastination, learn from failure"
+      },
+      {
+        "card": "Knight of Pentacles",
+        "upright_meaning": "Hard work, productivity, routine, conservatism",
+        "reversed_meaning": "Self-discipline, boredom, feeling ‘stuck’, perfectionism"
+      },
+      {
+        "card": "Queen of Pentacles",
+        "upright_meaning": "Nurturing, practical, providing financially, a working parent",
+        "reversed_meaning": "Financial independence, self-care, work-home conflict"
+      },
+      {
+        "card": "King of Pentacles",
+        "upright_meaning": "Wealth, business, leadership, security, discipline, abundance",
+        "reversed_meaning": "Financially inept, obsessed with wealth and status, stubborn"
+      }
+    ]
+  }
+}
