@@ -5,5 +5,34 @@
     "celtic_cross": {
         "positions": ["Present", "Challenge", "Past", "Future", "Above", "Below", "Advice", "External Influences", "Hopes and Fears", "Outcome"]
     },
-    
+    "horseshoe_spread": {
+        "positions": ["Past", "Present", "Hidden Influences", "Obstacle", "External Influences", "Suggested Action", "Outcome"]
+    },
+    "single_card": {
+        "positions": ["Insight"]
+    },
+    "five_card_spread": {
+        "positions": ["Past", "Present", "Hidden Influences", "Advice", "Outcome"]
+    },
+    "seven_card_horseshoe": {
+        "positions": ["Past", "Present", "Future", "You", "Your Environment", "Hopes and Fears", "Final Outcome"]
+    },
+    "relationship_spread": {
+        "positions": ["You", "Your Partner", "Past", "Present", "Future", "Advice"]
+    },
+    "chakra_spread": {
+        "positions": ["Root Chakra", "Sacral Chakra", "Solar Plexus Chakra", "Heart Chakra", "Throat Chakra", "Third Eye Chakra", "Crown Chakra"]
+    },
+    "star_spread": {
+        "positions": ["You", "Current Challenge", "Past", "Future", "Best Outcome", "Key Factor", "Final Outcome"]
+    },
+    "romantic_relationship_spread": {
+        "positions": ["Your Feelings", "Partner's Feelings", "Past Influences", "Current State", "Future Potential", "Advice", "Outcome"]
+    },
+    "career_path_spread": {
+        "positions": ["Current Situation", "Challenges", "Underlying Influences", "Advice", "Potential Outcome"]
+    },
+    "year_ahead_spread": {
+        "positions": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    }
 }
